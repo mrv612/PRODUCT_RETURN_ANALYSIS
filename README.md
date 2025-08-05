@@ -1,12 +1,12 @@
  PRODUCT_RETURN_ANALYSIS
 
-Product Return Analysis 📦
+ Product Return Analysis 📦
 
 
 A data analysis mini-project using Python, Excel, and machine learning to explore product returns by category and region.
 
 
-🔧 Tools Used
+
 
 
 .Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
